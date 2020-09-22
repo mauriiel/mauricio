@@ -1,4 +1,4 @@
-te//https://www.eclipse.org/paho/clients/js/
+//https://www.eclipse.org/paho/clients/js/
 
 function ENDEDIDO_1() {
 	

@@ -69,7 +69,7 @@ while rc==0:
 	i=i+1
 	horaActual=datetime.datetime.now().strftime("%H : %M : %S")
 	print(horaActual)
-
+    
 	
         
        
